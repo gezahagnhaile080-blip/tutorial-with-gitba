@@ -1,5 +1,5 @@
 def calculator():
-    print("Simple Calculator")
+    print(" Calculator")
     print("Select operation:")
     print("1. Add")
     print("2. Subtract")
